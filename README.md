@@ -1,13 +1,19 @@
 Welcome to the fourth assignment's Card directory! You will find three files here:
 
 Main.java
+
 Card.java
+
 Deck.java
+
 In Operations.java, you can access the Operations class with the following methods:
 
 createDeck(): This method combines all the suits and values to create a complete deck of cards.
+
 printDeck(): This method prints the entire deck of cards.
+
 printCard(): This method prints the first card of the deck.
+
 sameCard(): This method randomly selects a card and finds its suit.
 compareCard(): This method randomly selects two cards, compares their values, and returns a string indicating whether they have the same or different values.
 findCard(): This method allows you to find a card by specifying its suit and value.
